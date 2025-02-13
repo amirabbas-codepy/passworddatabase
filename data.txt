@@ -1,4 +1,0 @@
-{'Title': 'google', 'Password': 'coktcddcu'}
-{'Title': 'ghafarsoft email', 'Password': 'cocn"ijchct'}
-{'Title': 'github', 'Password': 'wugtpcog<coktcddcu/eqfgr{."rcuuyqtf<coktcddcueqfgt35:6'}
-{'Title': 'pythonanywhere', 'Password': 'wugtpcog"<"cokt;22cddcu.""rcuuyqtf"<"coktcddcueqfgt35:6'}
